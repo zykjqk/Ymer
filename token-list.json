@@ -1,25 +1,10 @@
 {
-  "name": "YMT",
-  "logoURI": "https://raw.githubusercontent.com/zykjqk/Ymer/main/ctoken_YMT.png",
-  "keywords": [
-      "ymt",
-      "YMT",
-      "y"
-    ],
-    "timestamp": "2020-09-01T01:40:34.305Z",
-    "tokens": [
-      {
+    {
       "chainId": 1,
       "address": "0x05a669a44e57721b2a17406328b97c4774e5a70f",
       "name": "ymer token",
       "symbol": "YMT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/zykjqk/Ymer/main/ctoken_YMT.png"
-      }
-    ],
-    "version": {
-      "major": 0,
-      "minor": 0,
-      "patch": 0
     }
 }
